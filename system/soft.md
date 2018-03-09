@@ -30,6 +30,10 @@ order by letter
 
     https://www.eclipse.org/downloads/
 
+### Foxit Reader
+
+    https://www.foxitsoftware.com/pdf-reader/
+
 ### Git
 
     sudo apt-get install git
